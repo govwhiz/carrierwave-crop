@@ -48,3 +48,8 @@
 
 ## CarrierWave-Crop v0.1.1 
    * Fixes Issue #1: Colons in html `id` attribute for Namespaced Models
+
+## CarrierWave-Crop v0.1.2
+
+## CarrierWave-Crop v0.1.3
+   * Changes carrierwave max version to 1.2.3 for dependency
